@@ -3,7 +3,7 @@
   "envId": "{{env.ENV_ID}}",
   "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
   "framework": {
-    "name": "air-conditioner",
+    "name": "air-conditioner-master",
     "plugins": {
       "web": {
         "use": "@cloudbase/framework-plugin-website",
