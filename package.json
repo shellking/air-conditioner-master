@@ -2,7 +2,7 @@
   "name": "air-conditioner-master",
   "description": "云空调，便携小空调",
   "version": "0.1.2",
-  "private": true,
+  "private": false,
   "author": {
     "url": "https://www.yunyoujun.cn",
     "email": "me@yunyoujun.cn",
